@@ -27,6 +27,7 @@ pip-log.txt
 .tox
 nosetests.xml
 
+
 # Translations
 *.mo
 
@@ -40,3 +41,6 @@ nosetests.xml
 
 # Virtual environment
 venv
+
+.show_git_bash_profile
+miguelgrinbergs_github_link

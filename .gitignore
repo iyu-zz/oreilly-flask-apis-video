@@ -40,3 +40,8 @@ nosetests.xml
 
 # Virtual environment
 venv
+
+.show_git_bash_profile
+miguelgrinbergs_github_link
+v0.1sample_http_requests
+v0.2sample_http_requests
